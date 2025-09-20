@@ -1,5 +1,15 @@
+import Formulario from "./componentes/Formulario";
+import Header from "./componentes/Header";
+import Footer from "./componentes/Footer";
+
 function App() {
-  return <h1>Hello World</h1>;
+  return (
+    <div className="App">
+      <Header />
+      <Formulario />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
