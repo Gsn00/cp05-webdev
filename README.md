@@ -37,4 +37,4 @@ A aplicação é dividida nos seguintes componentes principais, localizados no d
 
 ## Conclusão
 
-O projeto **FoodApp** é uma aplicação web de página única (single-page application) construída com React e estilizada com Tailwind CSS. A estrutura baseada em componentes e o uso de ferramentas modernas como o Vite indicam um projeto bem organizado e alinhado com as boas práticas de desenvolvimento web atuais. O foco parece ser a apresentação de um serviço ou produto relacionado a alimentos, com seções dedicadas a funcionalidades, depoimentos e contato.
+O projeto **GourmetOn** é uma aplicação web de página única (single-page application) construída com React e estilizada com Tailwind CSS. A estrutura baseada em componentes e o uso de ferramentas modernas como o Vite indicam um projeto bem organizado e alinhado com as boas práticas de desenvolvimento web atuais. O foco parece ser a apresentação de um serviço ou produto relacionado a alimentos, com seções dedicadas a funcionalidades, depoimentos e contato.
