@@ -7,8 +7,11 @@ export default function Sobre() {
       className="w-full py-20 bg-white flex px-20 gap-10 flex-wrap"
       id="Sobre"
     >
-      <h1 className="text-4xl font-bold text-center w-full">Sobre o FoodApp</h1>
-      <p className="text-center w-full">
+      <h1 className="text-4xl font-bold text-center w-full relative">
+        <div className="absolute inset-0 bg-orange-500 h-1 rounded-full mx-auto top-1/2 transform w-[50px] top-[140%]"></div>
+        Sobre o FoodApp
+      </h1>
+      <p className="text-center w-full text-gray-500">
         Conheça o aplicativo que está revolucionando a forma como as pessoas
         pedem comida online.
       </p>
@@ -54,7 +57,7 @@ export default function Sobre() {
           </div>
         </div>
         <div className="w-[50%] text-center">
-          <img src="/imgs/sobre.jpg" alt="" className="w-full"/>
+          <img src="/imgs/sobre.jpg" alt="" className="w-full" />
         </div>
       </div>
     </section>
