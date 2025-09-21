@@ -15,8 +15,8 @@ export default function Sobre() {
         Conheça o aplicativo que está revolucionando a forma como as pessoas
         pedem comida online.
       </p>
-      <div className="flex">
-        <div className="w-[50%] flex flex-col gap-5 justify-center">
+      <div className="flex flex-col md:flex-row w-full gap-10">
+        <div className="w-full md:w-[50%] flex flex-col gap-5 justify-center">
           <h2 className="text-2xl font-bold">Um novo jeito de pedir comida</h2>
           <p className="text-gray-500">
             O FoodApp foi desenvolvido pensando em oferecer a melhor experiência
@@ -56,7 +56,7 @@ export default function Sobre() {
             </p>
           </div>
         </div>
-        <div className="w-[50%] text-center">
+        <div className="w-full md:w-[50%] text-center">
           <img src="/imgs/sobre.jpg" alt="" className="w-full" />
         </div>
       </div>

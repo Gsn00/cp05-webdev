@@ -35,7 +35,7 @@ export default function Formulario() {
         </div>
         <button
           type="submit"
-          className="bg-orange-500 text-white py-2 px-4 rounded-md hover:bg-orange-600"
+          className="bg-orange-500 text-white py-2 px-4 rounded-[20px] hover:bg-orange-600 w-full md:w-auto cursor-pointer font-bold shadow-orange-500/50 shadow-lg"
         >
           Enviar
         </button>

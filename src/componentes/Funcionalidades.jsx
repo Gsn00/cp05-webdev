@@ -12,7 +12,7 @@ export default function Funcionalidades() {
         Descubra como nosso aplicativo torna o processo de pedir comida mais
         fácil, rápido e agradável.
       </p>
-      <div className="grid grid-cols-4 gap-10 w-full">
+      <div className="grid grid-cols-1 md:grid-cols-4 gap-10 w-full">
         <div className="flex flex-col items-center p-5 rounded-lg shadow-sm transition-shadow duration-300 text-center bg-white">
           <img
             src="/imgs/funcionalidade__1.jpg"

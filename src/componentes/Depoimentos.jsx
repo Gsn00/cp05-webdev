@@ -8,7 +8,7 @@ export default function Depoimentos() {
       <p className="text-center w-full text-gray-500">
         Veja as experiências de quem já usa o FoodApp no dia a dia
       </p>
-      <div className="grid grid-cols-3 gap-10 w-full">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-10 w-full">
         <div className="p-10 flex flex-col gap-5 bg-white shadow-md rounded-lg">
           <div className="flex gap-5">
             <img src="/imgs/imagem.png" alt="" />
