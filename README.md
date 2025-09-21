@@ -9,6 +9,9 @@
 
 1ESPK - Diurno - Paulista
 
+# Sobre o consumo da API com Fetch
+Fizemos o consumo da api e printamos as informações no console ao carregar a página.
+
 # Análise do Projeto GourmetOn
 
 ## Estrutura e Tecnologias
