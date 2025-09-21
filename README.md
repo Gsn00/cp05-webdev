@@ -1,4 +1,4 @@
-# FoodApp — Check-Point 05
+# GourmetOn — Check-Point 05
 
 # Equipe / Turma
 
@@ -9,11 +9,7 @@
 
 1ESPK - Diurno - Paulista
 
-# Análise do Projeto FoodApp
-
-## Introdução
-
-O projeto, denominado **FoodApp**, é uma aplicação web desenvolvida como parte do Check-Point 05 para a disciplina de desenvolvimento web. A equipe de desenvolvimento é composta por quatro membros: Artur Rodrigues Trindade Paes, Gabriel Silva Novais, Marcielle Janguas Pina Carvalho e Marcos Vinicius Aquino Prado, todos da turma 1ESPK.
+# Análise do Projeto GourmetOn
 
 ## Estrutura e Tecnologias
 
