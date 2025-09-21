@@ -1,6 +1,6 @@
 export default function Depoimentos() {
   return (
-    <section className="w-full bg-white px-20 py-20">
+    <section id="depoimentos" className="w-full bg-white px-20 py-20">
       <h1 className="text-4xl font-bold text-center w-full relative mb-10">
         <div className="absolute inset-0 bg-orange-500 h-1 rounded-full mx-auto transform w-[50px] top-[140%]"></div>
         O que nossos clientes dizem?

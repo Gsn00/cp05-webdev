@@ -1,6 +1,6 @@
 export default function Formulario() {
   return (
-    <section id="Formulario" className="py-10 bg-[#fff9f6]">
+    <section id="formulario" className="py-10 bg-[#fff9f6]">
       <form className="w-full max-w-lg mx-auto p-6 bg-white rounded-md shadow-md">
         <h2 className="text-2xl font-bold mb-4">Formulário de Contato</h2>
         <div className="mb-4">

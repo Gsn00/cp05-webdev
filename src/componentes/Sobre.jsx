@@ -3,9 +3,9 @@ import { faCheck } from "@fortawesome/free-solid-svg-icons";
 
 export default function Sobre() {
   return (
-    <section
+    <section 
       className="w-full py-20 bg-white flex px-20 gap-10 flex-wrap"
-      id="Sobre"
+      id="sobre"
     >
       <h1 className="text-4xl font-bold text-center w-full relative">
         <div className="absolute inset-0 bg-orange-500 h-1 rounded-full mx-auto top-1/2 transform w-[50px] top-[140%]"></div>
