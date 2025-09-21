@@ -29,7 +29,7 @@ export default function Sobre() {
             região, oferecendo uma variedade incrível de opções para todos os
             gostos e ocasiões
           </p>
-          <div className="grid grid-cols-2 gap-5">
+          <div className="flex flex-col md:grid md:grid-cols-2 gap-5">
             <p>
               <span className="text-orange-500 mr-2">
                 <FontAwesomeIcon icon={faCheck} />

@@ -1,6 +1,9 @@
 export default function Depoimentos() {
   return (
-    <section id="depoimentos" className="w-full bg-white px-20 py-20">
+    <section
+      id="depoimentos"
+      className="w-full py-20 flex px-20 gap-10 flex-wrap bg-white"
+    >
       <h1 className="text-4xl font-bold text-center w-full relative mb-10">
         <div className="absolute inset-0 bg-orange-500 h-1 rounded-full mx-auto transform w-[50px] top-[140%]"></div>
         O que nossos clientes dizem?
@@ -10,7 +13,7 @@ export default function Depoimentos() {
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 w-full">
         <div className="p-10 flex flex-col gap-5 bg-white shadow-md rounded-lg">
-          <div className="flex gap-5">
+          <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
               <h2 className="font-bold text-xl ml-3">Ana Silva</h2>
@@ -18,13 +21,13 @@ export default function Depoimentos() {
             </div>
           </div>
           <i className="text-gray-500 ">
-            "Uso o GourmetOn a mais de um ano e nunca tive problemas. A entrega é
-            sempre rápida e a comida chega quentinha. As promoções são um
+            "Uso o GourmetOn a mais de um ano e nunca tive problemas. A entrega
+            é sempre rápida e a comida chega quentinha. As promoções são um
             diferencial incrível"
           </i>
         </div>
         <div className="p-10 flex flex-col gap-5 bg-white shadow-md rounded-lg">
-          <div className="flex gap-5">
+          <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
               <h2 className="font-bold text-xl ml-3">Carlos Mendes</h2>
@@ -38,7 +41,7 @@ export default function Depoimentos() {
           </i>
         </div>
         <div className="p-10 flex flex-col gap-5 bg-white shadow-md rounded-lg">
-          <div className="flex gap-5">
+          <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
               <h2 className="font-bold text-xl ml-3">Juliana Costa</h2>
@@ -46,7 +49,9 @@ export default function Depoimentos() {
             </div>
           </div>
           <i className="text-gray-500 ">
-            "O suporte ao cliente é excelente! Tive um problema com o pedido e eles resolveram em minutos. Além disso, o app é super intuitivo e fácil."
+            "O suporte ao cliente é excelente! Tive um problema com o pedido e
+            eles resolveram em minutos. Além disso, o app é super intuitivo e
+            fácil."
           </i>
         </div>
       </div>
