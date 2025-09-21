@@ -1,6 +1,9 @@
 export default function Hero() {
   return (
-    <section id="inicio" className="w-full py-20 bg-[#fff9f6] flex flex-col md:flex-row px-20 gap-10">
+    <section
+      id="inicio"
+      className="w-full py-20 bg-[#fff9f6] flex flex-col md:flex-row px-20 gap-10"
+    >
       <div className="w-full md:w-[50%] flex flex-col gap-5 justify-center">
         <h1 className="text-4xl font-bold">Seu app de comida favorito!</h1>
         <p>
@@ -35,7 +38,7 @@ export default function Hero() {
             className="w-full h-auto object-cover rounded-lg"
           />
         </div>
-        <img src="/imgs/image__3.PNG" alt="Imagem 3" className="w-[250px]" />
+        <img src="/imgs/image__3.png" alt="Imagem 3" className="w-[250px]" />
       </div>
     </section>
   );
