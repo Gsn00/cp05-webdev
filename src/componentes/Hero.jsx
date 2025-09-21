@@ -35,7 +35,7 @@ export default function Hero() {
             className="w-full h-auto object-cover rounded-lg"
           />
         </div>
-        <img src="/imgs/image__3.png" alt="Imagem 3" className="w-[250px]" />
+        <img src="/imgs/image__3.PNG" alt="Imagem 3" className="w-[250px]" />
       </div>
     </section>
   );

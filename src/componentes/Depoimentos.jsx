@@ -6,7 +6,7 @@ export default function Depoimentos() {
         O que nossos clientes dizem?
       </h1>
       <p className="text-center w-full text-gray-500">
-        Veja as experiências de quem já usa o FoodApp no dia a dia
+        Veja as experiências de quem já usa o GourmetOn no dia a dia
       </p>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10 w-full">
         <div className="p-10 flex flex-col gap-5 bg-white shadow-md rounded-lg">
@@ -18,7 +18,7 @@ export default function Depoimentos() {
             </div>
           </div>
           <i className="text-gray-500 ">
-            "Uso o FoodApp a mais de um ano e nunca tive problemas. A entrega é
+            "Uso o GourmetOn a mais de um ano e nunca tive problemas. A entrega é
             sempre rápida e a comida chega quentinha. As promoções são um
             diferencial incrível"
           </i>
@@ -32,7 +32,7 @@ export default function Depoimentos() {
             </div>
           </div>
           <i className="text-gray-500 ">
-            "O que mais é gostoso no FoodApp é a variedades de restaurantes
+            "O que mais é gostoso no GourmetOn é a variedades de restaurantes
             disponíveis. Sempre encontro exatamente o que estou com vontade de
             comer, não importa a hora do dia."
           </i>

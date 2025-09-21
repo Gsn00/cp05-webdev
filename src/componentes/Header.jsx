@@ -27,7 +27,7 @@ export default function Header() {
       }`}
     >
       <h1 className="text-xl font-bold text-orange-500 flex">
-        Food <span className="text-black">App</span>
+        Gourmet<span className="text-black">On</span>
       </h1>
       <nav>
         <ul className="hidden md:flex space-x-4 z-10">
