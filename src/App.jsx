@@ -3,6 +3,7 @@ import Header from "./componentes/Header";
 import Footer from "./componentes/Footer";
 import Hero from "./componentes/Hero";
 import Sobre from "./componentes/Sobre";
+import Funcionalidades from "./componentes/Funcionalidades";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Header />
       <Hero />
       <Sobre />
+      <Funcionalidades />
       <Formulario />
       <Footer />
     </div>

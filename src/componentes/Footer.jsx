@@ -6,7 +6,7 @@ import { faYoutube } from "@fortawesome/free-brands-svg-icons";
 
 export default function Footer() {
   return (
-    <footer className="w-full py-4 bg-gray-900 text-white mt-10">
+    <footer className="w-full py-4 bg-[#343434] text-white">
       <div className="container mx-auto text-center flex flex-col gap-5 items-center">
         <h1 className="text-2xl font-bold text-orange-500">FoodApp</h1>
         <div>
