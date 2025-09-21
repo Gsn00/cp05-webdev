@@ -56,7 +56,7 @@ export default function Footer() {
           </a>
         </div>
         <p className="text-sm">
-          &copy; {new Date().getFullYear()} FoodApp. Todos os direitos reservados.
+          &copy; {new Date().getFullYear()} GourmetOn. Todos os direitos reservados.
         </p>
       </div>
     </footer>
