@@ -16,7 +16,7 @@ export default function Depoimentos() {
           <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
-              <h2 className="font-bold text-xl ml-3">Ana Silva</h2>
+              <h2 className="font-bold text-xl ml-3">Maria Marques</h2>
               <img src="/imgs/imagem2.png" alt="" />
             </div>
           </div>
@@ -30,7 +30,7 @@ export default function Depoimentos() {
           <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
-              <h2 className="font-bold text-xl ml-3">Carlos Mendes</h2>
+              <h2 className="font-bold text-xl ml-3">João Carvalho</h2>
               <img src="/imgs/imagem2.png" alt="" />
             </div>
           </div>
@@ -44,7 +44,7 @@ export default function Depoimentos() {
           <div className="flex gap-5 flex-col md:flex-row">
             <img src="/imgs/imagem.png" alt="" />
             <div className="text-left">
-              <h2 className="font-bold text-xl ml-3">Juliana Costa</h2>
+              <h2 className="font-bold text-xl ml-3">Gabriela Ferreira</h2>
               <img src="/imgs/imagem2.png" alt="" />
             </div>
           </div>
